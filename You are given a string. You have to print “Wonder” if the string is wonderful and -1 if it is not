@@ -1,0 +1,6 @@
+n=input()
+x=set(n)
+if len(x)==3:
+  print("Wonder")
+else:
+  print("-1")
